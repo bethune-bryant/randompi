@@ -8,7 +8,7 @@ namespace RandomPI
     /// <summary>
     /// Computes PI as described here:
     /// https://www.youtube.com/watch?v=RZBhSi_PwHU
-    /// Using the fact that the probability of any 2 numbers being coprime is 6/(pi^2).
+    /// Using the fact that the probability of any 2 positive integers being coprime is 6/(pi^2).
     /// </summary>
     class Program
     {
